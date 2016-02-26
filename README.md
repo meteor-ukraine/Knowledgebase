@@ -3,6 +3,7 @@ Best practises, useful videos, solutions
 
 ### Development environment
 Meteor development infrastructure [Meteor CI]
+[Unit testing by samples]
 
 ### React Native + Meteor
 Differential on [ReactNative: Connection, Authentication]
@@ -16,3 +17,4 @@ Omri Klinger,Meteor TLV: [Scaling and optimization]
 [Scaling and optimization]:https://www.youtube.com/watch?v=1M0lEuhxAGk
 [ReactNative: Connection, Authentication]:http://blog.differential.com/react-native-meteor-boilerplate/
 [Meteor CI]:https://martinhbramwell.github.io/Meteor-CI-Tutorial/index.html
+[Unit testing by samples]:http://blog.east5th.co/2015/12/21/unit-testing-with-meteor-1.3/
