@@ -9,10 +9,10 @@ Differential on [ReactNative: Connection, Authentication]
 
 ###Going Production
 
-Omri Klinger,Meteor TLV: [Scaling and optimimization]
+Omri Klinger,Meteor TLV: [Scaling and optimization]
 
 
 
-[Scaling and optimimization]:https://www.youtube.com/watch?v=1M0lEuhxAGk
+[Scaling and optimization]:https://www.youtube.com/watch?v=1M0lEuhxAGk
 [ReactNative: Connection, Authentication]:http://blog.differential.com/react-native-meteor-boilerplate/
 [Meteor CI]:https://martinhbramwell.github.io/Meteor-CI-Tutorial/index.html
