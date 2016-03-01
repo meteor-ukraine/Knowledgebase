@@ -7,7 +7,7 @@ Meteor development infrastructure [Meteor CI]
 
 ### React + Meteor
 Different implementation of M+R [TrackerReact] 
-[Example repo]
+Example of TrackerReact [Example repo]
 
 ### React Native + Meteor
 Differential on [ReactNative: Connection, Authentication]
